@@ -1,5 +1,8 @@
 # Agent Skills
 
+> **This README is the guide.** It travels with the repo — on any machine that
+> clones it, read this file to know how to install and use everything.
+
 A personal collection of reusable **agent skills** (Markdown instruction packs) for
 AI coding agents. Built for [OpenCode](https://opencode.ai) and portable to any
 tools that read the [`SKILL.md` folder convention](https://agentskills.io)
